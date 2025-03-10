@@ -2,7 +2,7 @@
 const Home = () => {
   return (
     <div>
-      <p>Jeremy Panjaitan</p>
+      <p>Gior Sheva Rotinsulu</p>
     </div>
   )
 }
